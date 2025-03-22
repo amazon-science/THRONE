@@ -1,0 +1,15 @@
+[submodule "third_party/mPLUG-Owl"]
+	path = third_party/mPLUG-Owl
+	url = https://github.com/X-PLUG/mPLUG-Owl.git
+[submodule "third_party/MiniGPT-4"]
+	path = third_party/MiniGPT-4
+	url = https://github.com/Vision-CAIR/MiniGPT-4.git
+[submodule "third_party/LLaVA"]
+	path = third_party/LLaVA
+	url = https://github.com/haotian-liu/LLaVA.git
+[submodule "third_party/LLaMA-Adapter"]
+	path = third_party/LLaMA-Adapter
+	url = https://github.com/OpenGVLab/LLaMA-Adapter.git
+[submodule "third_party/Otter"]
+	path = third_party/Otter
+	url = https://github.com/Luodian/Otter.git
