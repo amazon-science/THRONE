@@ -1,7 +1,7 @@
 numpy==1.26.4
 torch===1.13.1
 torchvision==0.14.1
-transformers==4.37.2
+transformers==4.48.0
 pillow==11.0.0
 pycocotools==2.0.8
 accelerate==0.21.0
