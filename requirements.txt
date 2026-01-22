@@ -6,7 +6,7 @@ pillow==11.0.0
 pycocotools==2.0.8
 accelerate==0.21.0
 peft==0.6.1
-sentencepiece==0.2.0
+sentencepiece==0.2.1
 regex==2024.11.6
 omegaconf==2.3.0
 pandas==2.2.3
